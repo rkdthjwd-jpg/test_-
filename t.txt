@@ -1,2 +1,6 @@
 좋은아침!
+<<<<<<< HEAD
 sssss branch에서 수정
+=======
+branch에서 수정
+>>>>>>> ed272e64e4a1023ab1719f5b884526c2f34998af
